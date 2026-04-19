@@ -1,5 +1,5 @@
 // Set your countdown target date/time here
-const countdownDate = new Date("July 27, 2025 00:00:00").getTime();
+const countdownDate = new Date("June 15, 2026 00:00:00").getTime();
 
 const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
