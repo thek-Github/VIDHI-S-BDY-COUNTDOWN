@@ -51,5 +51,5 @@ giftButton.addEventListener("click", () => {
   birthdayMessage.style.display = "none";
 
   // Redirect immediately to second site
-  window.location.href = "";
+  window.location.href = "https://vidhisha-bdy.vercel.app/";
 });
